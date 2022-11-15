@@ -1,0 +1,116 @@
+/*Estrelas Home*/
+#star-il {
+    left: 7%;
+    width: 9%;
+    margin-top: -5%;
+}
+
+#star-il-4 {
+    width: 3%;
+    left: 17%;
+    margin-top: -1.5%;
+}
+
+#star-il-7 {
+    width: 7%;
+    right: 9%;
+    margin-top: -3%;
+}
+
+#star-il-4-b {
+    width: 7%;
+    right: 43%;
+    margin-top: -5%;
+}
+
+#star-il-7-b {
+    width: 7%;
+    left: 36%;
+    margin-top: -4%;
+}
+
+#eclipse-il {
+    width: 10%;
+    margin-top: 6%;
+    left: -5%;
+}
+
+#eclipse-il-b {
+    width: 10%;
+    margin-top: 18%;
+    left: -5%;
+}
+
+div#star-il-7-c {
+    right: 5%;
+    width: 14%;
+    margin-top: -5%;
+}
+
+div#star-il-4-c {
+    left: 8%;
+    width: 11%;
+    margin-top: -4.8%;
+}
+
+div#star-il-b {
+    width: 3%;
+    left: 8.4%;
+    margin-top: 4%;
+}
+
+div#star-il-4-d {
+    left: 42%;
+    width: 6%;
+    margin-top: -4%;
+}
+
+div#star-il-c {
+    left: 49%;
+    margin-top: -3%;
+    width: 5%;
+}
+
+div#star-il-7-d {
+    left: 8%;
+    width: 8%;
+    margin-top: -3%;
+}
+
+div#star-il-4-e {
+    width: 4%;
+    left: 8%;
+    margin-top: 7%;
+}
+
+div#star-il-4-f {
+    right: 10%;
+    width: 10%;
+    margin-top: -6%;
+}
+
+div#star-il-d {
+    right: 9%;
+    margin-top: 4%;
+    width: 5%;
+}
+
+div#star-il-f {
+    right: 48%;
+    margin-top: -9%;
+    width: 12%;
+}
+
+div#star-il-e {
+    left: 44%;
+    width: 5%;
+    margin-top: -16%;
+}
+
+.img-comp-a {
+    position: absolute;
+}
+
+.img-components {
+    width: 100%;
+}
